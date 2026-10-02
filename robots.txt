@@ -1,0 +1,3 @@
+# Bloqueado enquanto o site está em construção. Liberar na etapa 6 (SEO).
+User-agent: *
+Disallow: /
